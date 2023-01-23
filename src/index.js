@@ -84,3 +84,4 @@ function clearBody() {
   refs.info.innerHTML = '';
   refs.list.innerHTML = '';
 }
+console.log('Перевірка сайту');
